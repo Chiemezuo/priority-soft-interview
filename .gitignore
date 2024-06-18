@@ -1,0 +1,8 @@
+# Byte-compiled
+__pycache__/
+
+# Database
+*.sqlite3
+
+# Django migrations
+*/migrations/*
